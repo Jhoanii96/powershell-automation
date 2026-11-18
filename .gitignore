@@ -1,0 +1,23 @@
+# PowerShell artifacts
+*.ps1xml
+*.clixml
+
+# Exports and reports
+*.csv
+*.xlsx
+*.xls
+*.pdf
+
+# Local environment and secret files
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.secret
+secrets/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
